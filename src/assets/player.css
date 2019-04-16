@@ -1,0 +1,10 @@
+#index .player .row .ivu-carousel .ivu-carousel-dots li button {
+	background: #000;
+	opacity: 0;
+}
+#index .player .row .ivu-carousel .ivu-carousel-dots li{
+    padding:3.2% 8.73%;
+}
+ #index .player .row .ivu-carousel .ivu-carousel-dots li button:hover {
+	 opacity: 0.3;
+ }
